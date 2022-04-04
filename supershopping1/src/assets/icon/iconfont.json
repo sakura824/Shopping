@@ -1,0 +1,65 @@
+{
+  "id": "2674552",
+  "name": "supershopping1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "166653",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "5661133",
+      "name": "积分",
+      "font_class": "jifen",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "6308120",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "6684323",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "17779994",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "2578455",
+      "name": "未登录-头像",
+      "font_class": "weidenglu-touxiang",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "6264192",
+      "name": "进入",
+      "font_class": "jinru",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "11613942",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
